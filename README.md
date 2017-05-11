@@ -9,9 +9,18 @@ My daughter invented a game about the San Juan Capistrano Mission. She put so mu
 
 At the simplest, you just need a normal printer (color preferable), some posterboard, glue, and scissors. If you want to reproduce it just as you see in the pictures, you'll need:
 
-* Color printer
-* 3D Printer
-* Laminator
+## Hardware
+
+* Color printer -- Printing the cards that were then folded over so they had a front and a back.
+* 3D Printer -- We used a Luzbot Mini to print the dice, arches, and the individual playing pieces.
+* Laminator -- Laminate the cards so they could survive dirty fingers
+
+## Software
+
+* Photo-viewing software -- All of the cards have been included as PNG files, so if you can load them into an image editor/viewer, you can print them from there
+* Microsoft Powerpoint (for editing) -- If you want to directly edit the cards (or add more), the Powerpoint file is included
+* Cura (or other 3D printing software) -- All of the models are included as STL files so any 3D printing software that can load or convert that format can use the files
+* Blender (for editing) -- If you want to edit the 3D models, the Blender files for the dice, game pieces, and arches are included.
 
 # How this game came about
 
