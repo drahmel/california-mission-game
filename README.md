@@ -31,6 +31,15 @@ If you want to reproduce it just as you see in the pictures, you'll need:
 * Cura (or other 3D printing software) -- All of the models are included as STL files so any 3D printing software that can load or convert that format can use the files
 * Blender (for editing) -- If you want to edit the 3D models, the Blender files for the dice, game pieces, and arches are included.
 
+# Instructions
+
+* Print out the cards
+* 3D print the dice, pieces, and arches
+** Scale the dice to around 20mm
+** Scale each playing piece to about 15mm
+** Scale the arches to about 35mm
+** You will need 20 arches
+
 # How this game came about
 
 My daughter has a school project based around the California missions. She decided to make a game around San Juan Capistrano and so she invented the game you find here. She would write the details for playing cards on index cards, test them out, and when she was happy she would type them into the computer. She would do the same with the board and the playing pieces.
