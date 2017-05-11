@@ -1,13 +1,22 @@
 # California Mission Game
 My daughter's California mission game (focused on San Juan Capistrano) with all the printable and 3d printable assets
 
+![card-tops](https://cloud.githubusercontent.com/assets/722938/25975503/74446438-3663-11e7-8ca4-52e2f8a6a792.PNG)
+
 # Why is this here?
 
 My daughter invented a game about the San Juan Capistrano Mission. She put so much work into it, it seemed like something that might interest other kids, educators, and parents. Also, it's fun to play!
 
 # What do I need to recreate the game?
 
-At the simplest, you just need a normal printer (color preferable), some posterboard, glue, and scissors. If you want to reproduce it just as you see in the pictures, you'll need:
+At the simplest, you need:
+
+* Normal printer (color preferable)
+* Some posterboard
+* Glue
+* Scissors.
+
+If you want to reproduce it just as you see in the pictures, you'll need:
 
 ## Hardware
 
