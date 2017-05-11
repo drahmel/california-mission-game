@@ -1,5 +1,5 @@
-# california-mission-game
-My daughter's California mission game with all the printable and 3d printable assets
+# California Mission Game
+My daughter's California mission game (focused on San Juan Capistrano) with all the printable and 3d printable assets
 
 # Why is this here?
 
